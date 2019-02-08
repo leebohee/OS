@@ -10,9 +10,9 @@ There are 3 brances. <br>
 
 Each branch implements several different functions. <br>
 
-1. **project-1** branch
+1. **project-1** branch <br>
 Implement three system calls - getnice, setnice, ps
-2. **project-2** branch
+2. **project-2** branch <br>
 Implement a new scheduling policy MLFQ
-3. **project-3** branch
+3. **project-3** branch <br>
 Modify memory layout to move the stack to top of address space so that stack can grow.
